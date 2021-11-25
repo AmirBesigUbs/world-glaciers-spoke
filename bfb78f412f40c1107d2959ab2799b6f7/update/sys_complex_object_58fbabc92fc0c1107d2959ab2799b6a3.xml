@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD54fbabc98cc0c11066ab5341190bc0a3</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>bfb78f412f40c1107d2959ab2799b6f7</scope_name>
+        <serialized_content>{"FlowDesigner:FD54fbabc98cc0c11066ab5341190bc0a3":{"country":"String","country.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Country\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"latitude":"String","latitude.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Latitude\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"},"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ID\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\"}"},"longitude":"String","longitude.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Longitude\",\"mandatory\":\"false\",\"order\":\"5\",\"max_length\":\"0\"}"}},"FlowDesigner:FD54fbabc98cc0c11066ab5341190bc0a3.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Glacier record\",\"mandatory\":\"false\",\"uiUniqueId\":\"8ef953ef-55b2-41dd-bacc-89e7fb618153\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD54fbabc98cc0c11066ab5341190bc0a3\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"12\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-24 15:27:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>58fbabc92fc0c1107d2959ab2799b6a3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FD54fbabc98cc0c11066ab5341190bc0a3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="World Glaciers Spoke" source="x_721122_world_gla">bfb78f412f40c1107d2959ab2799b6f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">bfb78f412f40c1107d2959ab2799b6f7</sys_scope>
+        <sys_update_name>sys_complex_object_58fbabc92fc0c1107d2959ab2799b6a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-24 15:30:26</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
